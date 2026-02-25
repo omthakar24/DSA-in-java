@@ -1,4 +1,4 @@
-package ArrayProblems;
+package Sorting;
 
 public class LinearSearch {
     static int Linear(int[]arr, int n){
