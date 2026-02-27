@@ -1,7 +1,5 @@
 package StringProblems;
 
-import java.util.ArrayList;
-
 public class SentenceReverse {
     static void reverse(String s,char[] c){
         int current = 0;
